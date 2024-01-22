@@ -1,0 +1,1 @@
+An example of how to use HealthKit on iOS, retrieve weight and height, calculate BMI, and add running to a list of workouts the user has done. This is a project developed in the Swift language and on Xcode IDE.
